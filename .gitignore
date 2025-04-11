@@ -1,3 +1,8 @@
+
+.idea/
+bot_harz/.env
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -128,7 +133,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
+bot_harz/.env
 .venv
 env/
 venv/
