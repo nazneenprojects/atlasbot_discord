@@ -44,5 +44,5 @@ Use the generated URL to invite your bot to your server.
 
 If nothing appears for the slash command initially, give Discord a few seconds to sync it.
 
-Refer - You can watch Demo of how boat works by watching this video recording - bot_harz/recording_harzbot.mp4
+Refer - You can watch Demo of how boat works by watching this video recording - [bot_harz/recording_harzbot.mp4](https://github.com/nazneenprojects/atlasbot_discord/blob/846b4807702bffa8495eef807e9b91feda6c839f/bot_harz/recording_harzbot.mp4)
 
